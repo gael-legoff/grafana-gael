@@ -48,6 +48,9 @@ socket = /var/snap/grafana-gael/current/grafana.sock
 
 To use Grafana visit http://localhost:3000/
 
+**2026-02-21**
+* v12.3.3 available on amd64
+
 **2026-02-11**
 * v12.3.2+security-01 available on amd64
 
