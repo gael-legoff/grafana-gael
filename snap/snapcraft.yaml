@@ -1,5 +1,5 @@
 name: grafana-gael
-version: "v13.2.1"
+version: "v13.2.2"
 base: core24
 summary: Grafana
 description: |
@@ -45,7 +45,7 @@ parts:
 
   grafana:
     plugin: dump
-    source: https://github.com/grafana/grafana/releases/download/v13.2.1/grafana-enterprise_13.2.1_33191028959_linux_amd64.deb
+    source: https://github.com/grafana/grafana/releases/download/v13.2.2/grafana-enterprise_13.2.2_34846740809_linux_amd64.deb
     source-type: deb
     stage-packages:
       - adduser
